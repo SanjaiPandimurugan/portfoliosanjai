@@ -2,15 +2,16 @@
   import { motion, AnimatePresence } from 'framer-motion';
   import { FaGithub, FaExternalLinkAlt, FaTimes } from 'react-icons/fa';
   
+  
   const projects = [
     // ... Your existing project data ...
       {
-    title: "E-commerce Platform",
-    description: "A full-stack e-commerce solution with React, Node.js, and MongoDB.",
-    image: "/images/project1.jpg",
+    title: "Mushroom Platform",
+    description: "A full stack Weebsite for the Mushroom Business Startup.",
+    image: "src/assets/image.png",
     technologies: ["React", "Node.js", "MongoDB", "Express"],
-    githubLink: "https://github.com/yourusername/ecommerce-platform",
-    liveLink: "https://ecommerce-platform-demo.com"
+    githubLink: "https://github.com/SanjaiPandimurugan/mush",
+    liveLink: "https://mushroomprotector.vercel.app/"
   },
     {
     title: "E-commerce Platform",

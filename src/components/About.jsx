@@ -41,9 +41,9 @@ function About() {
             transition={{ duration: 0.5 }}
             className="md:w-1/2 md:pl-8"
           >
-            <h3 className="text-2xl font-semibold mb-4 text-amber-300">Hi, I'm [Your Name]</h3>
+            <h3 className="text-2xl font-semibold mb-4 text-amber-300">Hi, I'm Sanjai</h3>
             <p className="text-gray-300 mb-6">
-              I'm a passionate Full Stack Developer with 5 years of experience in creating
+              I'm a passionate Full Stack Developer with experience in creating
               beautiful, functional, and user-centered digital experiences. With a strong
               foundation in both frontend and backend technologies, I love bringing ideas to life
               in the browser.

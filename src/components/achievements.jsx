@@ -3,9 +3,9 @@ import { motion } from 'framer-motion';
 import { FaTrophy, FaMedal, FaAward, FaCertificate, FaStar, FaCrown } from 'react-icons/fa';
 
 const achievements = [
-  { icon: <FaTrophy />, year: '2023', title: 'Web Dev Challenge', description: '1st Place in National Competition' },
-  { icon: <FaMedal />, year: '2022', title: 'Hackathon 2022', description: 'Best Innovation Award' },
-  { icon: <FaAward />, year: '2021', title: 'Code Jam', description: 'Finalist in Google\'s Code Jam' },
+  { icon: <FaTrophy />, year: '2024', title: 'Solvethon SDG Sairam Goal 17', description: '1st Place in Hackathon' },
+  { icon: <FaMedal />, year: '2022', title: 'Anna University Startup Cafe', description: 'Top 30 in 5000+participants' },
+  { icon: <FaAward />, year: '2021', title: 'Game Development Club', description: '1st Prize in Figma Fusion' },
   { icon: <FaCertificate />, year: '2020', title: 'AWS Certification', description: 'Certified AWS Solutions Architect' },
   { icon: <FaStar />, year: '2019', title: 'GitHub Star', description: 'Recognized as GitHub Star' },
   { icon: <FaCrown />, year: '2018', title: 'Startup Weekend', description: 'Winner of Startup Weekend' },
