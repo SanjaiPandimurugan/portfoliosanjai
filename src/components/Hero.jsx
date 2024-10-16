@@ -78,10 +78,10 @@ function Hero() {
             Full Stack Web Developer
           </p>
           <div className="flex justify-center md:justify-start space-x-4 mb-8">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-amber-400 transition duration-300">
+            <a href="https://github.com/SanjaiPandimurugan" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-amber-400 transition duration-300">
               <FiGithub size={24} />
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-amber-400 transition duration-300">
+            <a href="www.linkedin.com/in/sanjai-p-308864257" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-amber-400 transition duration-300">
               <FiLinkedin size={24} />
             </a>
             <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-amber-400 transition duration-300">
